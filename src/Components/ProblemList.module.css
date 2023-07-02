@@ -1,0 +1,302 @@
+/* 
+.problemList {
+  list-style: none;
+  padding: 0;
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.cardTitle {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.cardList {
+  list-style: none;
+  padding: 0;
+}
+
+.cardListItem {
+  margin-bottom: 8px;
+}
+
+.categoriesList {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categoryItem {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  border: 1px solid #000;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: #f2f2f2;
+  transition: transform 0.2s ease-in-out;
+}
+
+.categoryItem:hover {
+  transform: scale(1.05);
+}
+
+.categoryLabel {
+  margin-right: 5px;
+  color: #333;
+  font-weight: bold;
+}
+
+.easy {
+  color: green;
+}
+
+.medium {
+  color: orange;
+}
+
+.hard {
+  color: red;
+}
+
+.categoriesList {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categoryItem {
+  margin-right: 10px;
+}
+
+.categoryLabel {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.allLabel {
+  color: #333;
+}
+
+.easyLabel {
+  color: green;
+}
+
+.mediumLabel {
+  color: orange;
+}
+
+.hardLabel {
+  color: red;
+}
+
+.categoryCount {
+  font-weight: bold;
+}
+
+.allCount {
+  color: #4d96ff;
+}
+
+.allLabel {
+  color: #4d96ff;
+}
+
+.userCard {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.userName {
+  color: white;
+  padding: 5px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sortHeading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.userCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.categoriesList {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+} */
+.problemList {
+  list-style: none;
+  padding: 0;
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.cardTitle {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.cardList {
+  list-style: none;
+  padding: 0;
+}
+
+.cardListItem {
+  margin-bottom: 8px;
+}
+
+.categoriesList {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categoryItem {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  border: 1px solid #000;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: #f2f2f2;
+  transition: transform 0.2s ease-in-out;
+}
+
+.categoryItem:hover {
+  transform: scale(1.05);
+}
+
+.categoryLabel {
+  margin-right: 5px;
+  color: #333;
+  font-weight: bold;
+}
+
+.easy {
+  color: green;
+}
+
+.medium {
+  color: orange;
+}
+
+.hard {
+  color: red;
+}
+
+.categoriesList {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.categoryItem {
+  margin-right: 10px;
+}
+
+.categoryLabel {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.allLabel {
+  color: #333;
+}
+
+.easyLabel {
+  color: green;
+}
+
+.mediumLabel {
+  color: orange;
+}
+
+.hardLabel {
+  color: red;
+}
+
+.categoryCount {
+  font-weight: bold;
+}
+
+.allCount {
+  color: #4d96ff;
+}
+
+.allLabel {
+  color: #4d96ff;
+}
+
+.userCard {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  margin-bottom: 10px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.userCard:hover {
+  transform: scale(1.01);
+}
+
+.userName {
+  color: white;
+  padding: 5px;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.sortHeading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.userCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.categoriesList {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
