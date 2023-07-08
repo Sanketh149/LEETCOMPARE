@@ -1,3 +1,5 @@
+<img width="960" alt="image" src="https://github.com/Sanketh149/LEETCOMPARE/assets/89764074/fdcd2e04-3d18-447b-9fb6-2743dbf30463">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
